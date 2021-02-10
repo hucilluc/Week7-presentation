@@ -1,0 +1,25 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Happy as a pig in...
+Author: Steve P
+URL: https://poly.google.com/view/dNZEBTAUq-b
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Male Mannequin
+Author: Elizabeth Edwards
+URL: https://poly.google.com/view/2F8TQWYRRW8
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Mindshow Developer V1
+Author: David Jeffries
+URL: https://poly.google.com/view/9p_83iQN7re
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Simple Mannequin
+Author: Thomas de Rivaz
+URL: https://poly.google.com/view/aDvY62amHAp
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
