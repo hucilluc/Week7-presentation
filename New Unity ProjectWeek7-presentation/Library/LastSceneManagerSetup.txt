@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Little Heroes Mega Pack/Scenes/Modern Female Costumes Scene.unity
+- path: Assets/Scenes/Git Presentation.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
