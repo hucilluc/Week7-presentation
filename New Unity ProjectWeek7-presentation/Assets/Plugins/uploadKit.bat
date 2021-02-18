@@ -1,1 +1,1 @@
-curl -v -b cookie -X PUT -F "kit[zip]=@/Users/Kate/Desktop/Github/Week7-presentation/New Unity ProjectWeek7-presentation/1675606534068896210_gitguykit.zip" -F "kit[game_engine_version]=20194" https://account.altvr.com/api/kits/1675606534068896210.json
+curl -v -b cookie -X PUT -F "kit[zip]=@/Users/Kate/Desktop/Github/Week7-presentation/New Unity ProjectWeek7-presentation/1675410990734246894_gitadddataanimkit.zip" -F "kit[game_engine_version]=20194" https://account.altvr.com/api/kits/1675410990734246894.json
