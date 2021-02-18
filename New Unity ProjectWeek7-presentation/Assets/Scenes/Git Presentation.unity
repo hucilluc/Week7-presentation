@@ -222,6 +222,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Face Brown 13
       objectReference: {fileID: 0}
+    - target: {fileID: 146190, guid: 34052731634f2dc40a75a6092a3e6663, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 428654, guid: 34052731634f2dc40a75a6092a3e6663, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -278,6 +282,10 @@ PrefabInstance:
     - target: {fileID: 125272, guid: d51aac522c686cf4092d9792e4385d56, type: 3}
       propertyPath: m_Name
       value: Face Brown 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 125272, guid: d51aac522c686cf4092d9792e4385d56, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 462290, guid: d51aac522c686cf4092d9792e4385d56, type: 3}
       propertyPath: m_LocalPosition.x
@@ -909,6 +917,10 @@ PrefabInstance:
     - target: {fileID: 199260, guid: dfeaa0b6b024fa44b91f5f72440f6fc8, type: 3}
       propertyPath: m_Name
       value: Face Brown 03
+      objectReference: {fileID: 0}
+    - target: {fileID: 199260, guid: dfeaa0b6b024fa44b91f5f72440f6fc8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 480138, guid: dfeaa0b6b024fa44b91f5f72440f6fc8, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1968,7 +1980,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 197802, guid: 724733e14c80ae442b3adefebe09fb1d, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 418858, guid: 724733e14c80ae442b3adefebe09fb1d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2137,7 +2149,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 177334, guid: b93b51ab869749146a82462bbca3d064, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 410120, guid: b93b51ab869749146a82462bbca3d064, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2394,6 +2406,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Face Brown 11
       objectReference: {fileID: 0}
+    - target: {fileID: 161986, guid: a05e31819fa673648bd74dc434ba87e7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 491170, guid: a05e31819fa673648bd74dc434ba87e7, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2545,7 +2561,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &243269755
 Transform:
   m_ObjectHideFlags: 0
@@ -2730,6 +2746,10 @@ PrefabInstance:
     - target: {fileID: 154588, guid: 84262de746e0ce248b701d705d499aed, type: 3}
       propertyPath: m_Name
       value: Face Brown 08 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 154588, guid: 84262de746e0ce248b701d705d499aed, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 434408, guid: 84262de746e0ce248b701d705d499aed, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3178,6 +3198,10 @@ PrefabInstance:
     - target: {fileID: 163928, guid: 3edc2f6b0a3d76e4d95f112022ec623c, type: 3}
       propertyPath: m_Name
       value: Face Brown 04 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 163928, guid: 3edc2f6b0a3d76e4d95f112022ec623c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 495880, guid: 3edc2f6b0a3d76e4d95f112022ec623c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4140,7 +4164,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 187816, guid: 3921a97474c50ea4aa2b607edcacb9a2, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 430728, guid: 3921a97474c50ea4aa2b607edcacb9a2, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4833,7 +4857,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 126080, guid: a2e36ae1c4090fa4c82861fd0f4fa16e, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 476002, guid: a2e36ae1c4090fa4c82861fd0f4fa16e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8123,6 +8147,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Face Brown 07 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 187816, guid: 3921a97474c50ea4aa2b607edcacb9a2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 430728, guid: 3921a97474c50ea4aa2b607edcacb9a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -8359,6 +8387,10 @@ PrefabInstance:
     - target: {fileID: 182392, guid: 928a8b12f1ec50745964bfbd3ba9634d, type: 3}
       propertyPath: m_Name
       value: Face Brown 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 182392, guid: 928a8b12f1ec50745964bfbd3ba9634d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 480768, guid: 928a8b12f1ec50745964bfbd3ba9634d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9307,7 +9339,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1220740579
 Transform:
   m_ObjectHideFlags: 0
@@ -10009,7 +10041,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1277889428
 Transform:
   m_ObjectHideFlags: 0
@@ -10522,7 +10554,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 163928, guid: 3edc2f6b0a3d76e4d95f112022ec623c, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 495880, guid: 3edc2f6b0a3d76e4d95f112022ec623c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10580,6 +10612,10 @@ PrefabInstance:
     - target: {fileID: 177334, guid: b93b51ab869749146a82462bbca3d064, type: 3}
       propertyPath: m_Name
       value: Face Brown 12 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 177334, guid: b93b51ab869749146a82462bbca3d064, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 410120, guid: b93b51ab869749146a82462bbca3d064, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10646,7 +10682,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1817441117180916, guid: 28ac86f263b113049a724e0e7775ae0c, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4050963962954984, guid: 28ac86f263b113049a724e0e7775ae0c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11084,7 +11120,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 112094, guid: ed6beea8297ed9b4a81fb4542f7ae9c1, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 482696, guid: ed6beea8297ed9b4a81fb4542f7ae9c1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11238,6 +11274,10 @@ PrefabInstance:
     - target: {fileID: 1385859834324206, guid: 60a74b6aad1b0474b99df0c6c2438f57, type: 3}
       propertyPath: m_Name
       value: Face Brown 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 1385859834324206, guid: 60a74b6aad1b0474b99df0c6c2438f57, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4078199679484128, guid: 60a74b6aad1b0474b99df0c6c2438f57, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11582,7 +11622,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1496893114
 Transform:
   m_ObjectHideFlags: 0
@@ -12463,6 +12503,10 @@ PrefabInstance:
     - target: {fileID: 112290, guid: 2a50f1af472e8b74d84d87c6b4ee526f, type: 3}
       propertyPath: m_Name
       value: Face Brown 05
+      objectReference: {fileID: 0}
+    - target: {fileID: 112290, guid: 2a50f1af472e8b74d84d87c6b4ee526f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 449668, guid: 2a50f1af472e8b74d84d87c6b4ee526f, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14314,6 +14358,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Face Brown 14
       objectReference: {fileID: 0}
+    - target: {fileID: 111068, guid: 18be3d2d0638ced45b2de9bc0eea4f99, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 469306, guid: 18be3d2d0638ced45b2de9bc0eea4f99, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -14370,6 +14418,10 @@ PrefabInstance:
     - target: {fileID: 112094, guid: ed6beea8297ed9b4a81fb4542f7ae9c1, type: 3}
       propertyPath: m_Name
       value: Face Brown 01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 112094, guid: ed6beea8297ed9b4a81fb4542f7ae9c1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 482696, guid: ed6beea8297ed9b4a81fb4542f7ae9c1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14527,6 +14579,10 @@ PrefabInstance:
     - target: {fileID: 1817441117180916, guid: 28ac86f263b113049a724e0e7775ae0c, type: 3}
       propertyPath: m_Name
       value: Face Brown 19 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1817441117180916, guid: 28ac86f263b113049a724e0e7775ae0c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4050963962954984, guid: 28ac86f263b113049a724e0e7775ae0c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14848,6 +14904,10 @@ PrefabInstance:
     - target: {fileID: 126080, guid: a2e36ae1c4090fa4c82861fd0f4fa16e, type: 3}
       propertyPath: m_Name
       value: Face Brown 09 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 126080, guid: a2e36ae1c4090fa4c82861fd0f4fa16e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 476002, guid: a2e36ae1c4090fa4c82861fd0f4fa16e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -15430,7 +15490,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 154588, guid: 84262de746e0ce248b701d705d499aed, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 434408, guid: 84262de746e0ce248b701d705d499aed, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16196,6 +16256,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Face Brown 06
       objectReference: {fileID: 0}
+    - target: {fileID: 170062, guid: c62c12f38185ddf4c8ae5da0e9036a7a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 475526, guid: c62c12f38185ddf4c8ae5da0e9036a7a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -16290,7 +16354,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2121404983
 Transform:
   m_ObjectHideFlags: 0
