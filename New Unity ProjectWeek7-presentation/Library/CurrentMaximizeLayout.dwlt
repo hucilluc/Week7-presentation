@@ -570,7 +570,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 14070
+  m_LastSelectedObjectID: 14332
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -650,10 +650,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 93}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffff
+      m_ExpandedIDs: 6afbffff62370000fc370000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -741,8 +741,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets/Materials
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders:
